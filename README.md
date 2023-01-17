@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Anything related Web Development**
 
-- 📫 How to reach me **drop and email at vinitbeniwal29@gmail.com**
+- 📫 How to reach me **drop an email at vinitbeniwal29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
