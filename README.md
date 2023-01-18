@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinit Bishnoi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"
+<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
